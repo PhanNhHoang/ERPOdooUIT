@@ -11,7 +11,7 @@ Access Controls: Implements security settings to manage user access and permissi
 **Installation**
 
 Clone the Repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/PhanNhHoang/ERPOdooUIT
 
 Add to Odoo Addons Path:
 Edit your Odoo configuration file (odoo.conf) to include the path to this module:
